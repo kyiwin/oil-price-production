@@ -12,8 +12,11 @@ GDP growth rate of the world
 The following are explored in this project
 
 Oil Production by region of the world
+
 Comparing OPEC and Non-OPEC oil production by year
+
 Oil Consumption by region of the world
+
 Compared Oil Production and Consumption by region
 Compared the difference of Oil Production and Consumption by region
 Compared Middle East Countries on oil production
